@@ -1,3 +1,4 @@
+{
 "appRoles": [
     {
         "allowedMemberTypes": [
@@ -9496,3 +9497,4 @@
         "value": "WorkforceIntegration.ReadWrite.All"
     }
 ]
+}
