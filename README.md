@@ -1,1 +1,1 @@
-# Azure-App-Registration-Permission-Analyzer
+# Azure-App-Registration-Permission-Analyzer-2.0.0
